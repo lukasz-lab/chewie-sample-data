@@ -1,4 +1,4 @@
-name: Global workflow to rule all other worklows
+name: Global workflow to rule all other worklowsa
 
 on:
   push:
