@@ -2,12 +2,10 @@ name: Global workflow to rule all other worklowsa
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
 
     steps:
